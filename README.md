@@ -28,8 +28,8 @@
  - Database: MongoDb / MySQL / PostgreSQL / ...
  - Major Languages: **NextJs** / **Solidity** / *Rust* (Update)
 ---
-Find me around the web:
+Where I live on the web:
 -----------------------
-- Learning in public on <a href="https://youtube.com/songonha">Youtube</a>
+-The public channel <a href="https://youtube.com/songonha">Youtube</a>
 -----------------------
 
