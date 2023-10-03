@@ -10,7 +10,7 @@
   <a href="https://facebook.com/mmaithanhnha">
     <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
-  <a href="https://t.me/songonha">
+  <a href="https://t.me/thanhnhaweb3">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
   <br/>
