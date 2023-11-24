@@ -7,7 +7,7 @@
   <a href="https://youtube.com/songonha">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://facebook.com/mmaithanhnha">
+  <a href="https://facebook.com/thanhnhaweb3">
     <img src="https://img.shields.io/badge/Facebook-gray?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://t.me/thanhnhaweb3">
