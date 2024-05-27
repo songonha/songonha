@@ -18,7 +18,7 @@
 
 ---
 **About Me**
-- I'm a *Blockchain Developer* in Ho Chi Minh City, Viet Nam. Founder of SaigonWallet. Currently, I am developing an Ecosystem for SaigonWallet project. I started programming and researching Blockchain since 2020,
+- I'm a *Blockchain Developer* in Ho Chi Minh City, Viet Nam. Founder of Olym3 Labs. Currently, I am developing DApps on Web3. I started programming and researching Blockchain since 2020,
 - I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
 ---
 - I'm working in:
