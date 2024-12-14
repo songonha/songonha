@@ -1,7 +1,7 @@
 <h3 align="center">👋   Hello! My name is Nha   👋 <br/> "Mai Thanh Nha" </h3>
 
 <div id="badges" align="center">
-  <a href="https://twitter.com/songonha">
+  <a href="https://x.com/thanhnhaweb3">
     <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://youtube.com/songonha">
