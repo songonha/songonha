@@ -18,7 +18,9 @@
 
 ---
 **About Me**
-- I'm a Full Stack Web3 Developer and Founder & CEO of OLYM3 Labs, a company that operates in the field of education support in Ho Chi Minh City, Vietnam. Become a volunteer in the Chainlink Developer Expert Program from August 2024 as a Blockchain Service Integration and Smart Contract Developer. Currently, I develop blockchain-based applications. I started teaching, programming and researching Blockchain and Web3 in 2020.
+- I'm a Full Stack Web3 Developer and Founder & CEO of OLYM3 Labs, a company that operates in the field of education support in Ho Chi Minh City, Vietnam.
+- Became a volunteer in the Chainlink Developer Expert Program from August 2024 as a Blockchain Service Integration and Smart Contract Developer.
+- Currently, I develop blockchain-based applications. I started teaching, programming and researching Blockchain and Web3 in 2020.
 - I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
 ---
 - I'm working in:
