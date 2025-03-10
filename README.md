@@ -1,4 +1,4 @@
-<h3 align="center">👋   Hello! My name is Nha   👋 <br/> "Mai Thanh Nha" </h3>
+<h3 align="center">👋   Hello! My name is Matthew!   👋 <br/> "Mai Thanh Nha" </h3>
 
 <div id="badges" align="center">
   <a href="https://x.com/thanhnhaweb3">
