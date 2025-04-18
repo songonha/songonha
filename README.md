@@ -22,7 +22,7 @@
 - Become a volunteer in the Chainlink Developer Expert Program from August 2024 as a Blockchain Service Integration and Smart Contract Developer.
 - Currently, I develop blockchain-based applications. I started teaching, programming and researching Blockchain and Web3 in 2020.
 - I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
-- I am an AI & Web3 educator, mentor for DApps, and global hackathon judge, empowering young innovators and shaping the future of decentralized technologies through education and guidance.
+- I am an AI & Web3 educator, mentor for DApps, local and global hackathon judge, empowering young innovators and shaping the future of decentralized technologies through education and guidance.
 ---
 **I'm working in:**
  - Blockchain: Ethereum / Solana / Cosmos / SUI / Zk-EVM /...
