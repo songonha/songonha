@@ -13,6 +13,9 @@
   <a href="https://t.me/thanhnhaweb3">
     <img src="https://img.shields.io/badge/Telegram-yellow?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/mai-thanh-nha/">
+    <img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
   <br/>
 </div>
 
