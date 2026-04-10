@@ -21,11 +21,11 @@
 
 ---
 **About Me**
-- I'm a Full Stack AI and Web3 Developer and Founder & CEO of OLYM3, a company that operates in the field of education support in Ho Chi Minh City, Vietnam.
-- Become a volunteer in the Chainlink Developer Expert Program from August 2024 as a Blockchain Service Integration and Smart Contract Developer.
-- Currently, I develop blockchain-based applications. I started teaching, programming and researching Blockchain and Web3 in 2020.
-- I have a passion for contributing to more accessible open-source code, helping young people understand and be passionate about Blockchain and Blockchain Technology as much as possible.
-- I am an AI & Web3 educator, mentor for DApps, local and global hackathon judge, empowering young innovators and shaping the future of decentralized technologies through education and guidance.
+- I am a Full Stack AI & Web3 Developer and Founder & CEO of OLYM3, an organization dedicated to education support in Ho Chi Minh City, Vietnam.
+- As a volunteer in the Chainlink Developer Expert Program (since August 2024), I work on AI and Blockchain integration and smart contract development.
+- With over 17 years of experience in software engineering, I have built scalable systems across Web3, blockchain, and modern application architectures. Since 2020, I have focused on developing, teaching, and researching decentralized technologies and their real-world applications.
+- I am now transitioning deeply into Artificial Intelligence and Machine Learning, with the goal of integrating AI into Web3 ecosystems to create intelligent, data-driven, and decentralized systems.
+- In addition to my technical work, I actively contribute as an educator, mentor, and hackathon judge, supporting both local and global developer communities. I am committed to open-source development and to making AI and blockchain technologies more accessible to the next generation of innovators.
 ---
 **I'm working in:**
  - Blockchain: Olym3 Blockchain / Ethereum / Solana / SUI / U2U Network / ...
